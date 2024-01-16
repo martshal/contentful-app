@@ -274,13 +274,11 @@ ul {
   margin: 0 auto;
   margin-top: 1rem;
 }
-
 /* 
 ============= 
 PROJECT CSS
 =============
 */
-
 body {
   background: var(--grey-200);
 }
@@ -319,12 +317,12 @@ body {
     display: block;
   }
 }
-/* 
+
+/*
 ============= 
 PROJECTS 
 =============
 */
-
 .projects {
   padding: 5rem 0;
 }
@@ -359,7 +357,6 @@ PROJECTS
   padding: 1rem 0;
   color: var(--grey-700);
 }
-
 @media (min-width: 768px) {
   .projects-center {
     grid-template-columns: 1fr 1fr;
